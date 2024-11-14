@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **node.js, javascript, html, css, socket.io, etc.**
 
-- 📫 How to reach me **gabriel.ciriaco@gmail.com**
+- 📫 How to reach me **gabrielciricarvalho@gmail.com**
 
 - 🎸 Fun Fact **Besides computers, music is my passion!**
 
