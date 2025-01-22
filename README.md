@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [HTML Pokédex](https://github.com/Gabriel-Ciriaco/HTML-POKEDEX)<br><br>🌱 I’m currently learning **Machine Learning, Transformers, C, etc.**<br><br>🤝 I’m looking for help with [super-profanity](https://github.com/Gabriel-Ciriaco/super-profanity)<br><br>💬 Ask me about **node.js, javascript, html, css, socket.io, etc.**<br><br>📫 How to reach me **gabrielciricarvalho@gmail.com**<br><br>🎸 Fun Fact **Besides computers, music is my passion!**
+🔭 I’m currently working on [py_cora_api](https://github.com/Gabriel-Ciriaco/py_cora_api)<br><br>🌱 I’m currently learning **Machine Learning, Transformers, C, etc.**<br><br>🤝 I’m looking for help with [super-profanity](https://github.com/Gabriel-Ciriaco/super-profanity)<br><br>💬 Ask me about **node.js, javascript, html, css, socket.io, etc.**<br><br>📫 How to reach me **gabrielciricarvalho@gmail.com**<br><br>🎸 Fun Fact **Besides computers, music is my passion!**
 
 
 # 💻 Tech Stack:
